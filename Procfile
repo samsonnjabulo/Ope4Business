@@ -1,1 +1,1 @@
-web: ./gradlew ofbiz
+web: java $JAVA_OPTS -Dserver.port=$PORT ./gradlew ofbiz
