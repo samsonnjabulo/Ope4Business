@@ -1,1 +1,1 @@
-web: ./gradlew ofbiz -x test -Dserver.port=$PORT
+web: ./gradlew ofbiz -x test
