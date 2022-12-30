@@ -1,1 +1,1 @@
-web: ./gradlew ofbiz -Dserver.port=$PORT
+web: ./gradlew ofbiz -Dserver.port=$PORT -Xmx1024m
